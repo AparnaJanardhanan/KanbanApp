@@ -59,7 +59,7 @@ h1 {
 }
 
 .kanban__add-item {
-    width: 100%;
+    width: 15rem;
     padding: 10px 0;
     font-size: 16px;
     color: white;
